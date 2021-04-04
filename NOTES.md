@@ -64,4 +64,6 @@ We´re going to use the default bar.
 
 ## Alternative Non-Collapsable Navigation Bar
 
+## Creating a "Recipe" Model
+
 
