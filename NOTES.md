@@ -66,4 +66,6 @@ We´re going to use the default bar.
 
 ## Creating a "Recipe" Model
 
+## Adding Content to the Recipes Components
+
 
