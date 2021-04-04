@@ -72,4 +72,4 @@ We´re going to use the default bar.
 
 You can use the interpolation operator for attributes in HTML components, but it more correct to use one-way-binding
 
-
+## Displaying Recipe Details
