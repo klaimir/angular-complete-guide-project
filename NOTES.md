@@ -21,8 +21,9 @@ Also see this lecture - I do show the complete setup process there: https://www.
 
 If you're facing any problems, please have a look at this very thorough thread by Jost: https://www.udemy.com/course/the-complete-guide-to-angular-2/learn/lecture/17862130#questions/10444944
 
+!IMPORTANT! For this project, we are going to use Bootstrap 4 due to this is the current stable version.
 
-
+## Setting up the Application
 
 
 
