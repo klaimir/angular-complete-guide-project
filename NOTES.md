@@ -9,6 +9,27 @@ This document describes relevants notes for Recipes and Shop list project and it
 
 ## Planning the App
 
+### Funcionality
+- Recipe Book
+- Shooping List 
+
+### Components
+- Root
+- Header
+- Shooping List:
+  - Shopping List.
+  - Shopping List Edit.
+- Recipe Book:
+  - Recipe List.
+  - Recipe Item.
+  - Recipe Detail.
+
+### Models
+- Shooping List:
+  - Ingredient.
+- Recipe Book:
+  - Recipe.
+
 ## Installing Bootstrap Correctly
 
 In the next lecture, we set up the course project. For that, we'll install the Bootstrap CSS Framework.
@@ -25,7 +46,13 @@ If you're facing any problems, please have a look at this very thorough thread b
 
 ## Setting up the Application
 
+## Creating the Components
 
+The objective is creating a folder structure (or scafolding) for the project.
 
+Could be useful creating manually the first component to practice. But, I definitivaly recomment the CLI.
 
+ng g c --skipTests true (If component name is not indicated, a prompt shows an option to write the component name).
+
+We´re going to organize folder by feature.
 
