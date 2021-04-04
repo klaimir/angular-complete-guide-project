@@ -56,3 +56,12 @@ ng g c --skipTests true (If component name is not indicated, a prompt shows an o
 
 We´re going to organize folder by feature.
 
+## Using the components
+
+## Adding a navigation bar
+
+We´re going to use the default bar.
+
+## Alternative Non-Collapsable Navigation Bar
+
+
