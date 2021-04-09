@@ -83,3 +83,5 @@ You can use the interpolation operator for attributes in HTML components, but it
 ## Adding Navigation with Event Binding and ngIf
 
 Simulation of navigation
+
+## Passing Recipe Data with Property Binding
