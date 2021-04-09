@@ -75,3 +75,11 @@ You can use the interpolation operator for attributes in HTML components, but it
 ## Displaying Recipe Details
 
 ## Working on the ShoppingListComponent
+
+
+
+# Section 6: Course Project - Components & Databinding
+
+## Adding Navigation with Event Binding and ngIf
+
+Simulation of navigation
